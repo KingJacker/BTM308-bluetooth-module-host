@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP73871-2CCI_ML
+D Li-Ion Charger USB/DC 4.2V TE LBO QFN20
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/728881.pdf
+$ENDCMP
+#
+#End Doc Library
