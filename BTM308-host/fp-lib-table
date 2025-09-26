@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BTM308")(type "KiCad")(uri "C:/Users/D/Documents/KiCad/projects/BTM308-bluetooth-module-host/BTM_lib/BTM308.pretty")(options "")(descr ""))
+)
