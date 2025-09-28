@@ -12253,7 +12253,7 @@
 		(embedded_fonts no)
 		(model "C:/Users/D/Documents/KiCad/projects/charging-module/3d_models/TYPE-C-31-M-12--3DModel-STEP-56544.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 -1 0)
 			)
 			(scale
 				(xyz 1 1 1)
