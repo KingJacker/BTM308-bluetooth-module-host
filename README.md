@@ -27,6 +27,11 @@ This is a carrier board for the BTM308 Bluetooth audio module.
 | <img alt="top-layout" src="images/top-layout.png"/> | <img alt="inner1-layout" src="images/inner1-layout.png" />  | <img alt="inner2-layout" src="images/inner2-layout.png" /> | <img alt="bottom-layout" src="images/bottom-layout.png" /> |
 
 
+## Assembly
+
+<img alt="fab" src="images/fab.png" >
+
+
 ## Bill of Materials
 
 | Designator		| Footprint								| Qty. 	| Designation		|
